@@ -1,0 +1,25 @@
+test_exam.php accessed with user_id: 1
+link: exam_67d7abcb280f4, exam_id: 13
+user_exams rows: 1
+Exam found: yes
+Questions found: 2
+test_exam.php accessed with user_id: 1
+link: exam_67da91c7b7c1e, exam_id: 15
+user_exams rows: 1
+Exam found: yes
+Questions found: 3
+test_exam.php accessed with user_id: 1
+link: exam_67da91c7b7c1e, exam_id: 15
+user_exams rows: 1
+Exam found: yes
+Questions found: 3
+test_exam.php accessed with user_id: 1
+link: exam_67d7abcb280f4, exam_id: 13
+user_exams rows: 1
+Exam found: yes
+Questions found: 2
+test_exam.php accessed with user_id: 1
+link: exam_67da80260fdee, exam_id: 14
+user_exams rows: 1
+Exam found: yes
+Questions found: 3

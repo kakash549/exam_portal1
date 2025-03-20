@@ -1,0 +1,17 @@
+submit_exam.php accessed with user_id: 1
+Received exam_id: 15
+Question ID: 15, User Answer: N.CHANDRABABU NAIDU, Correct Answer: N.CHANDRABABU NAIDU
+Question ID: 16, User Answer: K.Pawan Kalyan, Correct Answer: K.Pawan Kalyan
+Question ID: 17, User Answer: True, Correct Answer: True
+Exam submitted successfully for exam_id: 15, score: 3, status: fully_graded
+submit_exam.php accessed with user_id: 1
+Received exam_id: 13
+Question ID: 10, User Answer: Bjourne, Correct Answer: Bjourne
+Question ID: 11, User Answer: True, Correct Answer: True
+Exam submitted successfully for exam_id: 13, score: 100, status: fully_graded
+submit_exam.php accessed with user_id: 1
+Received exam_id: 14
+Question ID: 12, User Answer: printf(), Correct Answer: printf()
+Question ID: 13, User Answer: Djarne Stroustup, Correct Answer: Bjarne Stroustrup
+Question ID: 14, User Answer: printf(), Correct Answer: printf()
+Exam submitted successfully for exam_id: 14, score: 2, status: fully_graded
